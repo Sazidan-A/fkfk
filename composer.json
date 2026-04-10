@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
-    "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "name": "sazidan-a/fkfk",
+    "type": "library",
+    "description": "FKFK package maintained by Sazidan-A.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
